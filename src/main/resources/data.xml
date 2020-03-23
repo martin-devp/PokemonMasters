@@ -1,0 +1,238 @@
+<?xml version = "1.0"?>
+<class>
+    <Pokemon number = "1">
+        <Name>Charmander</Name>
+        <Fire>65</Fire>
+        <Water>18</Water>
+        <Leaf>22</Leaf>
+        <Electric>30</Electric>
+    </Pokemon>
+
+    <Pokemon number ="2">
+        <Name>Squirtel</Name>
+        <Fire>40</Fire>
+        <Water>67</Water>
+        <Leaf>14</Leaf>
+        <Electric>10</Electric>
+    </Pokemon>
+
+    <Pokemon number = "3">
+        <Name>Bulbasaur</Name>
+        <Fire>16</Fire>
+        <Water>35</Water>
+        <Leaf>69</Leaf>
+        <Electric>45</Electric>
+    </Pokemon>
+    <Pokemon number = "4">
+        <Name>Charmeleon</Name>
+        <Fire>75</Fire>
+        <Water>23</Water>
+        <Leaf>38</Leaf>
+        <Electric>32</Electric>
+    </Pokemon>
+
+    <Pokemon number ="5">
+        <Name>Wartottle</Name>
+        <Fire>42</Fire>
+        <Water>74</Water>
+        <Leaf>20</Leaf>
+        <Electric>11</Electric>
+    </Pokemon>
+
+    <Pokemon number = "6">
+        <Name>Ivysaur</Name>
+        <Fire>19</Fire>
+        <Water>40</Water>
+        <Leaf>77</Leaf>
+        <Electric>47</Electric>
+    </Pokemon>
+
+    <Pokemon number = "7">
+        <Name>Charizard</Name>
+        <Fire>88</Fire>
+        <Water>30</Water>
+        <Leaf>51</Leaf>
+        <Electric>44</Electric>
+    </Pokemon>
+
+    <Pokemon number ="8">
+        <Name>Blastoise</Name>
+        <Fire>48</Fire>
+        <Water>89</Water>
+        <Leaf>35</Leaf>
+        <Electric>40</Electric>
+    </Pokemon>
+
+    <Pokemon number = "9">
+        <Name>Venusaur</Name>
+        <Fire>28</Fire>
+        <Water>50</Water>
+        <Leaf>91</Leaf>
+        <Electric>60</Electric>
+    </Pokemon>
+    <Pokemon number = "10">
+        <Name>Pikachu</Name>
+        <Fire>15</Fire>
+        <Water>45</Water>
+        <Leaf>33</Leaf>
+        <Electric>78</Electric>
+    </Pokemon>
+
+    <Pokemon number ="11">
+        <Name>Raichu</Name>
+        <Fire>25</Fire>
+        <Water>49</Water>
+        <Leaf>38</Leaf>
+        <Electric>85</Electric>
+    </Pokemon>
+
+    <Pokemon number = "12">
+        <Name>Zapdos</Name>
+        <Fire>18</Fire>
+        <Water>33</Water>
+        <Leaf>45</Leaf>
+        <Electric>95</Electric>
+    </Pokemon>
+
+    <Pokemon number = "13">
+        <Name>Moltres</Name>
+        <Fire>97</Fire>
+        <Water>17</Water>
+        <Leaf>55</Leaf>
+        <Electric>4</Electric>
+    </Pokemon>
+
+    <Pokemon number ="14">
+        <Name>Articuno</Name>
+        <Fire>36</Fire>
+        <Water>98</Water>
+        <Leaf>19</Leaf>
+        <Electric>36</Electric>
+    </Pokemon>
+
+    <Pokemon number = "15">
+        <Name>Entei</Name>
+        <Fire>95</Fire>
+        <Water>37</Water>
+        <Leaf>55</Leaf>
+        <Electric>47</Electric>
+    </Pokemon>
+    <Pokemon number = "16">
+        <Name>Mewtwo</Name>
+        <Fire>88</Fire>
+        <Water>85</Water>
+        <Leaf>84</Leaf>
+        <Electric>79</Electric>
+    </Pokemon>
+
+    <Pokemon number ="17">
+        <Name>Brosko</Name>
+        <Fire>74</Fire>
+        <Water>59</Water>
+        <Leaf>78</Leaf>
+        <Electric>66</Electric>
+    </Pokemon>
+
+    <Pokemon number = "18">
+        <Name>Zako</Name>
+        <Fire>80</Fire>
+        <Water>81</Water>
+        <Leaf>72</Leaf>
+        <Electric>85</Electric>
+    </Pokemon>
+
+    <Pokemon number = "19">
+        <Name>Mrazon</Name>
+        <Fire>17</Fire>
+        <Water>78</Water>
+        <Leaf>48</Leaf>
+        <Electric>36</Electric>
+    </Pokemon>
+
+    <Pokemon number ="20">
+        <Name>Arcanaine</Name>
+        <Fire>85</Fire>
+        <Water>24</Water>
+        <Leaf>60</Leaf>
+        <Electric>11</Electric>
+    </Pokemon>
+
+    <Pokemon number = "21">
+        <Name>Kinglar</Name>
+        <Fire>42</Fire>
+        <Water>81</Water>
+        <Leaf>31</Leaf>
+        <Electric>17</Electric>
+    </Pokemon>
+    <Pokemon number = "22">
+        <Name>Feraligatr</Name>
+        <Fire>43</Fire>
+        <Water>95</Water>
+        <Leaf>41</Leaf>
+        <Electric>23</Electric>
+    </Pokemon>
+
+    <Pokemon number ="23">
+        <Name>Chikorita</Name>
+        <Fire>15</Fire>
+        <Water>32</Water>
+        <Leaf>65</Leaf>
+        <Electric>34</Electric>
+    </Pokemon>
+
+    <Pokemon number = "24">
+        <Name>Tyranitar</Name>
+        <Fire>87</Fire>
+        <Water>40</Water>
+        <Leaf>40</Leaf>
+        <Electric>37</Electric>
+    </Pokemon>
+
+    <Pokemon number = "25">
+        <Name>Blaziken</Name>
+        <Fire>93</Fire>
+        <Water>19</Water>
+        <Leaf>42</Leaf>
+        <Electric>47</Electric>
+    </Pokemon>
+
+    <Pokemon number = "26">
+        <Name>Mew</Name>
+        <Fire>83</Fire>
+        <Water>81</Water>
+        <Leaf>87</Leaf>
+        <Electric>56</Electric>
+    </Pokemon>
+
+    <Pokemon number ="27">
+        <Name>Sharpedo</Name>
+        <Fire>35</Fire>
+        <Water>78</Water>
+        <Leaf>44</Leaf>
+        <Electric>10</Electric>
+    </Pokemon>
+
+    <Pokemon number = "28">
+        <Name>Trecko</Name>
+        <Fire>11</Fire>
+        <Water>23</Water>
+        <Leaf>59</Leaf>
+        <Electric>34</Electric>
+    </Pokemon>
+    <Pokemon number = "29">
+        <Name>Quilava</Name>
+        <Fire>99</Fire>
+        <Water>29</Water>
+        <Leaf>33</Leaf>
+        <Electric>27</Electric>
+    </Pokemon>
+
+    <Pokemon number ="30">
+        <Name>Dog</Name>
+        <Fire>50</Fire>
+        <Water>60</Water>
+        <Leaf>70</Leaf>
+        <Electric>60</Electric>
+    </Pokemon>
+
+</class>
